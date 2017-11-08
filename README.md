@@ -1,5 +1,5 @@
 # twentytwenty_vid_image
-twenty twenty image comparison script (javascript) extended for image vs HTML5 Video comparison
+twentytwenty image comparison script (javascript) extended for image vs HTML5 Video comparison
 
 Original Source : https://github.com/zurb/twentytwenty
 
